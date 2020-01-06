@@ -1,7 +1,11 @@
 file first commit
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 branch a1
 >>>>>>> origin/a1
+=======
+branch a2 
+>>>>>>> origin/a2
 
